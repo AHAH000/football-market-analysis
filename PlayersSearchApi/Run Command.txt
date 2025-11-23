@@ -1,0 +1,5 @@
+uvicorn api:app --host 0.0.0.0 --port 8001 & uvicorn reddit_cloud_api:reddit_app --host 0.0.0.0 --port 8002
+
+
+
+uvicorn api:app --host 0.0.0.0 --port 8001 --reload

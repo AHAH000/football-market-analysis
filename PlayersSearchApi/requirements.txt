@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+praw
+wordcloud
+matplotlib
+numpy
+pandas
+scikit-learn
+python-multipart
