@@ -1,11 +1,3 @@
-Perfect — I'll generate **all four README files** for you:
-
-1. **Main repo README** → architecture + project explanation
-2. **PlayersSearchApi README**
-3. **User-Backend-GP-API README**
-4. **GP-Project (VUE Frontend) README**
-
----
 
 # ✅ **1. MAIN REPOSITORY — `README.md`**
 
